@@ -1,3 +1,3 @@
-Webpage for Nonparametric Sequential Comparison for Rigorous Evaluation (NSCORE). 
+Webpage for Physics-Informed Learning of Feedback-Linearizing Representations (Under Review). 
 
-See paper [here]()
+See paper [here]().
